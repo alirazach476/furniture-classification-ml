@@ -33,5 +33,6 @@ data/images/<class_name>/*.jpg
 Then re-run `train.py`.
 
 ## Sample Outputs
-![Confusion Matrix](outputs/confusion_matrix.png)
+![Furniture Classes](outputs/sample_classes_output.png)
 ![Sample Gallery](outputs/sample_gallery.png)
+![Confusion Matrix](outputs/confusion_matrix.png)
